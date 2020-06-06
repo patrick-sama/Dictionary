@@ -1,0 +1,10 @@
+C:\Program Files\Imi Project\Pro-Dictionary\Pro-Dictionay.exe.config
+C:\Users\s.BARAGHIN\Documents\Visual Studio 2017\Projects\Pro-Dictionay\Pro-Dictionay\obj\Debug\Pro-Dictionay.csprojAssemblyReference.cache
+C:\Users\s.BARAGHIN\Documents\Visual Studio 2017\Projects\Pro-Dictionay\Pro-Dictionay\obj\Debug\Pro_Dictionay.Form1.resources
+C:\Users\s.BARAGHIN\Documents\Visual Studio 2017\Projects\Pro-Dictionay\Pro-Dictionay\obj\Debug\Pro_Dictionay.Properties.Resources.resources
+C:\Users\s.BARAGHIN\Documents\Visual Studio 2017\Projects\Pro-Dictionay\Pro-Dictionay\obj\Debug\Pro-Dictionay.csproj.GenerateResource.cache
+C:\Users\s.BARAGHIN\Documents\Visual Studio 2017\Projects\Pro-Dictionay\Pro-Dictionay\obj\Debug\Pro-Dictionay.csproj.CoreCompileInputs.cache
+C:\Users\s.BARAGHIN\Documents\Visual Studio 2017\Projects\Pro-Dictionay\Pro-Dictionay\obj\Debug\Pro-Dictionay.exe
+C:\Users\s.BARAGHIN\Documents\Visual Studio 2017\Projects\Pro-Dictionay\Pro-Dictionay\obj\Debug\Pro-Dictionay.pdb
+C:\Program Files\Imi Project\Pro-Dictionary\Pro-Dictionay.exe
+C:\Program Files\Imi Project\Pro-Dictionary\Pro-Dictionay.pdb
